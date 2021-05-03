@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/JonasKruckenberg/imagetools/compare/rollup-plugin-imagetools@0.0.0...rollup-plugin-imagetools@2.2.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* **rollup-plugin-imgagetools:** fix relative imports ([f19c34c](https://github.com/JonasKruckenberg/imagetools/commit/f19c34c35418b4ef0ae1356a426e904c1cf64b0e))
+* decode URI encoded paths before resolving ([36636e5](https://github.com/JonasKruckenberg/imagetools/commit/36636e57d12d846ecd3500deb30d838150a85a2c)), closes [#84](https://github.com/JonasKruckenberg/imagetools/issues/84)
+* **rollup-plugin-imagetools:** update imagetool-core version ([3cd3cff](https://github.com/JonasKruckenberg/imagetools/commit/3cd3cffc1159cabc087c50cc28617915e040577e))
+* exclude test files from generated types ([a86d29c](https://github.com/JonasKruckenberg/imagetools/commit/a86d29c0b070b57860878fe80627d402eea82eaf))
+
+
+### Features
+
+* Add default directives ([#81](https://github.com/JonasKruckenberg/imagetools/issues/81)) ([176fa6d](https://github.com/JonasKruckenberg/imagetools/commit/176fa6d048ad3142e60c75a8253cabd9b28e3a49))
+
+
+
+
+
 ## [2.1.2](https://github.com/JonasKruckenberg/imagetools/compare/rollup-plugin-imagetools@2.1.1...rollup-plugin-imagetools@2.1.2) (2021-05-03)
 
 
